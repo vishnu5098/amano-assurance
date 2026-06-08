@@ -914,6 +914,7 @@ ul {
     display: block;
     margin: 20px auto 0;
     border-radius: 10px;
+    background: var(--off-white);
 }
 
 .service-card::before {
